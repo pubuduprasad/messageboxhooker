@@ -1,0 +1,11 @@
+C:\Users\pubudu\Desktop\New folder\InfoLib\bin\Debug\MessageBoxManager.dll
+C:\Users\pubudu\Desktop\New folder\InfoLib\bin\Debug\MessageBoxManager.pdb
+C:\Users\pubudu\Desktop\New folder\InfoLib\obj\Debug\MessageBoxManager.csproj.CoreCompileInputs.cache
+C:\Users\pubudu\Desktop\New folder\InfoLib\obj\Debug\MessageBoxManager.dll
+C:\Users\pubudu\Desktop\New folder\InfoLib\obj\Debug\MessageBoxManager.pdb
+C:\Users\pubudu\Desktop\New folder\MessageBoxManager\bin\Debug\MessageBoxManager.dll
+C:\Users\pubudu\Desktop\New folder\MessageBoxManager\bin\Debug\MessageBoxManager.pdb
+C:\Users\pubudu\Desktop\New folder\MessageBoxManager\obj\Debug\MessageBoxManager.csproj.AssemblyReference.cache
+C:\Users\pubudu\Desktop\New folder\MessageBoxManager\obj\Debug\MessageBoxManager.csproj.CoreCompileInputs.cache
+C:\Users\pubudu\Desktop\New folder\MessageBoxManager\obj\Debug\MessageBoxManager.dll
+C:\Users\pubudu\Desktop\New folder\MessageBoxManager\obj\Debug\MessageBoxManager.pdb
